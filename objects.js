@@ -110,4 +110,6 @@ function removeAndInsert () {
         }
     }
     obj.allies[obj.allies.length] = "Dragon Lady";
+    obj.alive = "More Than Ever";
+    return obj;
 }
